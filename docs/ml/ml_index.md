@@ -44,7 +44,7 @@ prev: false
 
 ## Дополнительно
 
-Тут будут кластные ресурсы, которые стоит глянуть
+Тут будут доп. ресурсы, которые стоит глянуть
 
 - [Учебник ШАДа](https://education.yandex.ru/handbook/ml)
 - [Курс МО1 НИУ ВШЭ ФКН ПМИ](https://github.com/esokolov/ml-course-hse)
