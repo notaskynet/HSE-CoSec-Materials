@@ -15,6 +15,9 @@ export default withMermaid(
       math: true
     },
     themeConfig: {
+      search: {
+        provider: 'local'
+      },
       nav: [
         { text: 'Home', link: '/' }
       ],
