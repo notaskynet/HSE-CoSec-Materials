@@ -1,16 +1,20 @@
 ---
+prev:
+  text: 'Эмпирическая функция распределения'
+  link: '/statistics/02_emprerical_dist_function'
 next:
-  text: 'К содержанию'
-  link: '/statistics/statistics_index'
-prev: false
+  text: 'Моделирование распределений'
+  link: '/statistics/04_distribution_modeling'
 outline: deep
 ---
+
+
 
 # Теория  оценивания
 
 **Определение.** Пусть . Любое измеримое отображение от реализации выборки назовем статистикой (оценкой)
 >[!info] Измеримое множество: 
-$$ \forall A \in B(\mathbb{R}^m): T(A) \in B(\mathbb{R}^n) $$
+>$$ \forall A \in B(\mathbb{R}^m): T(A) \in B(\mathbb{R}^n) $$
 
 **Определение**. Оценка $T(x)$ называется *несмещенной* для параметра $\Theta$, если
 $$E T(X) = \Theta$$

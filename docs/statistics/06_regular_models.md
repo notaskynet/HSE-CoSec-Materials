@@ -1,8 +1,10 @@
 ---
+prev:
+  text: 'Порядковая статистика'
+  link: '/statistics/05_ordinal_statistics'
 next:
-  text: 'К содержанию'
-  link: '/statistics/statistics_index'
-prev: false
+  text: 'Экспоненциальные семейства'
+  link: '/statistics/07_exp_functions'
 outline: deep
 ---
 

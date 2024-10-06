@@ -1,8 +1,10 @@
 ---
+prev:
+  text: 'Регулярные модели. Неравенство Рао-Крамера. Эффективные оценки'
+  link: '/statistics/04_distribution_modeling'
 next:
-  text: 'К содержанию'
-  link: '/statistics/statistics_index'
-prev: false
+  text: 'Порядковая статистика'
+  link: '/statistics/06_regular_models'
 outline: deep
 ---
 

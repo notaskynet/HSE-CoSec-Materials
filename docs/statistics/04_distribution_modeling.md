@@ -1,8 +1,10 @@
 ---
+prev:
+  text: 'Теория оценок'
+  link: '/statistics/03_evaluation_theory'
 next:
-  text: 'К содержанию'
-  link: '/statistics/statistics_index'
-prev: false
+  text: 'Порядковая статистика'
+  link: '/statistics/05_ordinal_statistics'
 outline: deep
 ---
 

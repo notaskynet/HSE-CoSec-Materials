@@ -1,8 +1,10 @@
 ---
 next:
+  text: 'Эмпирическая функция распределения'
+  link: '/statistics/02_emprerical_dist_function'
+prev:
   text: 'К содержанию'
   link: '/statistics/statistics_index'
-prev: false
 outline: deep
 ---
 

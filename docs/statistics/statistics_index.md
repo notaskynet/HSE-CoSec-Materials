@@ -17,3 +17,5 @@ prev: false
 4. [Моделирование распределений](04_distribution_modeling.md)
 5. [Порядковая статистика](05_ordinal_statistics.md)
 6. [Регулярные модели. Неравенство Рао-Крамера. Эффективные оценки](06_regular_models.md)
+7. [Экспоненциальные семейства](07_exp_functions.md)
+8. [Условное математическое ожидание](08_cond_math_expectation.md)

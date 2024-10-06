@@ -1,8 +1,10 @@
 ---
+prev:
+  text: 'Введение в Статистику'
+  link: '/statistics/01_intro_to_statistics'
 next:
-  text: 'К содержанию'
-  link: '/statistics/statistics_index'
-prev: false
+  text: 'Теория оценок'
+  link: '/statistics/03_evaluation_theory'
 outline: deep
 ---
 
