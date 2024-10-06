@@ -14,6 +14,7 @@ export default withMermaid(
       },
       math: true
     },
+    head: [['link', { rel: 'icon', href: '/HSE-CoSec-Materials/favicon.png' }]],
     themeConfig: {
       search: {
         provider: 'local'
